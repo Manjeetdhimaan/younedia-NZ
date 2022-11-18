@@ -1,0 +1,35 @@
+/*
+Teamplate Name: younedia 
+Version: 1.0
+*/
+/* Type your CSS Here */
+
+.witr_swiper_content h2, .witr_swiper_content h3{
+    color: rgb(255,255,255); 
+    
+}
+
+.younedia_menu .sub-menu a {
+    margin: 18px 7px 38px;
+}
+
+.younedia_nav_area.scroll_fixed.postfix {
+    height: 70px;
+}
+
+.witri_texti_list {
+    margin-bottom: 3rem;
+}
+
+.smm-list ul li {
+    list-style-type: disc;
+    margin-left: 1rem;
+}
+
+.witr_counter_text h6 {
+    color: #fff;
+}
+
+.blogsList li {
+    padding: 10px 0;
+}
