@@ -8661,12 +8661,12 @@ a{
 /*======================== EM40 SCROLL TOP CSS =========================*/
  #scrollUp {
      background: #0c5adb none repeat scroll 0% 0;
-     bottom: 30px;
+     bottom: 40px;
      color: #fff;
      font-size: 30px;
      height: 40px;
      line-height: 40px;
-     right: 100px;
+     right: 110px;
      text-align: center;
      border-radius: 5px;
      width: 40px;
